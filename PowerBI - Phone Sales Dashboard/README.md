@@ -6,7 +6,7 @@ Dataset: Sample sales data in `data`
 ## Play Around
 Open Report in Power BI Desktop, or use `Mobile Dashboard.pbix`.
 
-## Data Transforamtions
+## DAX & Data Transforamtions
 - Change Data types to show appropriate columns
 - Reorder/remove unnecessary columns
 - Added a custom column by combining different attributes
